@@ -1,0 +1,25 @@
+{
+  "name": "fastcordv14",
+  "version": "1.0.0",
+  "description": "Fastcord v14 FastUptime",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "fastcord",
+    "fastuptime",
+    "fastcordv14",
+    "fastuptimev14"
+  ],
+  "author": "Can & FastUptime",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^14.7.1",
+    "glob": "^7.2.0",
+    "moment": "^2.29.4",
+    "wio.db": "^4.0.22"
+  }
+}
