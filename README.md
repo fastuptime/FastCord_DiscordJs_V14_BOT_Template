@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/63351166/219955994-3bdeb04e-1f33-498f-98d2-08aaa8962670.png)
 ![image](https://user-images.githubusercontent.com/63351166/219956068-99bce5d7-3342-42a6-8844-d62e60a2f6c4.png)
 
-
+```
 📦FastCord_V14
    ┣ 📂commands
    ┃ ┗ 📜example.js
@@ -23,6 +23,7 @@
    ┣ 📜index.js
    ┣ 📜load.js
    ┗ 📜package.json
+```
 
 ## Tech Stack
 
